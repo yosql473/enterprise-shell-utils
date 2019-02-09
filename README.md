@@ -1,4 +1,4 @@
-# shiftBackup-1.0.0  快速备份工具
+# Enterprise-shell-utils abbr.=ESU
 
 root@zsxcp:/home/zsx/shellWorkspace# tree shiftBackup-1.0.0/
 shiftBackup-1.0.0/
